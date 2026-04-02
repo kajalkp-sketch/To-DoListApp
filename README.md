@@ -13,11 +13,6 @@ A simple and interactive Todo List Web Application built with HTML, CSS, and Jav
 Frontend: HTML, CSS, JavaScript
 Storage: Browser LocalStorage
 
-LocalStorage
 
-📂 Project Structure
-Code
-├── index.html        # Main HTML file
-├── style.css         # Styling for the app
-├── script.js         # App logic and interactivity
-└── README.md         # Project documentation
+
+
